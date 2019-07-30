@@ -1,42 +1,29 @@
-# The Data Engineering Cookbook
-I get asked super often how to become a Data Engineer.
-That's why I decided to start this cookbook with all the topics you need to look into.
+# 数据工程烹饪书
+我经常被问到如何成功一名数据工程师。
+这就是我为什么开始这本书，你想知道的全在里面。
 
-It's not only useful for beginners, professionals will definitely like the case study section.
+它不仅仅只对初学者有效，专业人士一定会对案例部分感兴趣。
 
-Here's the **download** shortcut: \
+这里可以直接**下载**（原版）: \
 [Data Engineering Cookbook PDF](https://github.com/andkret/Cookbook/raw/master/Data%20Engineering%20Cookbook.pdf)
 
-## How to use the cookbook
-I split this cookbook into five parts
-+ Part one is the introduction to the book
-+ In part two you will learn the basic data engineering skills
-+ Part three contains a real world data engineering example we currently work on
-+ The fourth part contains over 30 case studies with links from companies like Netflix, Twitter, Spotify
-+ Part five is a collection of one thousand and one interview questions (currently approx. 150)
+## 如何使用这本书
+我把这本书分成五个部分
++ 第一部分是书的介绍
++ 第二部分你将会学习到基本的数据工程技巧
++ 第三部分包含一个我们正在经历的、真实的数据工程案例
++ 第四部分包含30多个来自Netflix、Twitter、Spotify的学习案例
++ 第五部分收集了1001个面试题（目前大概150个）
 
-## How to contribute
-If you have some cool links or topics for the cookbook, please become a contributor.
-Simply open an issue and add your links. Or pull the repo, add them and create a pull request.
+## 如何参与
+如果你有一些很酷的链接或主题，欢迎你成为一个贡献者。你可以轻易的开一个issue或者发起一个推送请求过来。
 
-Please pull only the "working-branch" branch. \
-This way we keep the master branch clean and I don't have to mess around resolving conflicts. You just need to change the .tex file. I'll recompile it later when I merge the branch with the master
+请推送到"working-branch"分支上。
+这样可以保持主干整洁，并且我不希望去解决脏乱的冲突。你只需要改变.tex文件，我将会在稍后编译合并文件到主干。
 
-For comments please also use the "Issues" function.
+发表评论请使用"Issues"功能。
 
-## Support
+## 说明（by smallyu）
 
-Everything is free, but please support what you like! \
-Join my Patreon and become a plumber yourself:
-[Link to my Patreon](https://patreon.com/plumbersofds)
+本仓库的所有内容仅供学习交流。如有侵权，即刻删除。
 
-## Important links
-
-Subscribe to my Plumbers of data science YouTube channel:
-[Link to YouTube](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA)
-
-Check out my personal blog. Get updated via mail and get on my mailing list:
-[andreaskretz.com](https://andreaskretz.com)
-
-I have a Medium publication where you can publish your data engineer articles:
-[Medium publication](https://link.medium.com/9oi1VDrhPW)
