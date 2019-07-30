@@ -4,9 +4,6 @@
 
 它不仅仅只对初学者有效，专业人士一定会对案例部分感兴趣。
 
-这里可以直接**下载**（原版）: \
-[Data Engineering Cookbook PDF](https://github.com/andkret/Cookbook/raw/master/Data%20Engineering%20Cookbook.pdf)
-
 ## 如何使用这本书
 我把这本书分成五个部分
 + 第一部分是书的介绍
@@ -14,14 +11,6 @@
 + 第三部分包含一个我们正在经历的、真实的数据工程案例
 + 第四部分包含30多个来自Netflix、Twitter、Spotify的学习案例
 + 第五部分收集了1001个面试题（目前大概150个）
-
-## 如何参与
-如果你有一些很酷的链接或主题，欢迎你成为一个贡献者。你可以轻易的开一个issue或者发起一个推送请求过来。
-
-请推送到"working-branch"分支上。
-这样可以保持主干整洁，并且我不希望去解决脏乱的冲突。你只需要改变.tex文件，我将会在稍后编译合并文件到主干。
-
-发表评论请使用"Issues"功能。
 
 ## 说明（by smallyu）
 
