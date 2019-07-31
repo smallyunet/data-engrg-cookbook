@@ -16,7 +16,9 @@
 
 + [01.简介](./01.简介.md)
 
-## 说明（by smallyu）
+## 说明（by smallyu）| Declare (by smallyu)
 
 本仓库的所有内容仅供学习交流。如有侵权，即刻删除。
+
+All contents of this warehouse are for learning and communication only. In case of infringement, delete immediately.
 
