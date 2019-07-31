@@ -16,7 +16,11 @@
 
 + [01.简介](./01.简介.md)
 
-## 说明（by smallyu）| Declare (by smallyu)
+## 说明（by smallyu）
+
+源仓库：https://github.com/andkret/Cookbook
+
+为什么选择clone而不是fork？因为我想让这个仓库可以被搜索到。
 
 本仓库的所有内容仅供学习交流。如有侵权，即刻删除。
 
